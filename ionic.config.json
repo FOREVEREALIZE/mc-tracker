@@ -1,0 +1,7 @@
+{
+  "name": "McTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
